@@ -14,15 +14,3 @@
 ## Tips
 
 If you don't have a setup on your computer that allow to run code locally, then use https://replit.com/
-
----
-
-### Links
-
-For more on Artificial Intelligence, checkout this links
-
-- [My Twitter](https://twitter.com/mathiiias123).
-- [New Native](https://newnative.ai)
-- [Nextgrid](https://nextgrid.ai)
-# LFAchatUpworkLevi
-# LFAchatUpworkLevi
